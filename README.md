@@ -13,6 +13,4 @@ The repository includes the following files:
 - A classified dataset of 159 novels from the 17th century, [classified_corpus_roman_17_text_lemma.tsv](https://zenodo.org/record/5770866/files/classified_corpus_roman_17_text_lemma.tsv?download=1), in four major genres of the period: chilvaric novel, love novel, historical novel and comic novel. The classification is based on an exceptional source of 1731, the catalog of novels from Nicolas Lenglet du Fresnoy (published as the second volume of *De l'usage des romans*). The classified dataset include both the text (as in corpus_roman_17_text.tsv) at the page-level and the lemmatization realized with a trained syntaxic model on 17th century French (https://github.com/e-ditiones/LEM17)
 - A classification model created with the classified dataset, [fresnoy_model.rda](https://zenodo.org/record/5770866/files/fresnoy_model.rda?download=1). This "Fresnoy" model has a high accuracy (93%) which can be attributed to overfitting (as there is a limited amount of novels per genre). The SVM model as been created with [TidySupervise](https://github.com/Numapresse/TidySupervise) and can be easily reused with the same library.
 
-Due to limitations by Github, the PDF corpus is for now downloadable in two large zip files in an external corpus:
-- http://numapresse.org/divers/corpus_roman_16.zip
-- http://numapresse.org/divers/corpus_roman_17.zip
+Due to limitations by Github or Zenodo the entire corpus is not yet downlodable but will be shortly. In the meanwhile, it can be obtained on demand.
