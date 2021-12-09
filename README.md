@@ -1,4 +1,4 @@
-# corpus_roman_16_18
+# French Fiction of the 16-18th century
 A corpus containing all digitized French novels from the beginning of print (the first entry is from 1473) to the 18th century.
 
 French novels of the period have been identified using the Y2 quote of the French National Library Catalog that has served to classify past and present collections of novels in France from 1730 to 1996. Combined use of digitized sources from Gallica, Google Books, Archive.org and other digital library made it possible to attain a high representativeness: 78% of the novels of the 1450-1600 and 68% of the novels of the 1600-1700 have been retrieved.
